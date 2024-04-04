@@ -1,0 +1,34 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+.one{
+    border: 3px solid black;
+}
+.two{
+    border: 3px solid black;
+}
+.three{
+    border: 3px solid blue;
+}
+.four{
+    border: 5px solid orange;
+}
+.a,.b,.c,.d,.e,.f,.g,.f,.h,.i,.j,.k,.l,.m,.n{
+    border: 2px solid black ;
+}
+.fifth{
+    border: 3px solid green;
+}
+.six{
+    border: 3px solid black;
+}
+.seven{
+    border: 3px solid red;
+    display: flex;
+}
+.eight{
+    border: 3px solid yellow;
+    display: flex;
+}
