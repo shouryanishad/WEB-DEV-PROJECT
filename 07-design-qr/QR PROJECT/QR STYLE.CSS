@@ -1,0 +1,23 @@
+body{
+    text-align: center;
+    background-color: hsla(249, 95%, 58%, 0.759);
+    font-family: cursive;
+}
+.card{ 
+    width: 302px;
+    height: 470px;
+    background-color: white;
+ box-shadow: 10px 10px 8px rgba(0,0,0,0.3 );
+    padding: 1rem; 
+    position: absolute;
+    margin: auto;
+    inset:0px ;
+padding-bottom: 2rem;
+border-radius: 16px;
+}
+
+img{
+    width:200px;
+    border-radius: 8px;
+
+}
